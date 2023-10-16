@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "547072252417",
+    "project_id": "mgdprojects-1e20c",
+    "storage_bucket": "mgdprojects-1e20c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547072252417:android:24a1881b5747b9ba3cbe00",
+        "android_client_info": {
+          "package_name": "br.brlgames.sweetalchemy2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyUKQCYrcRbf4U6MNssOV3iCW4tYO4_S0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
